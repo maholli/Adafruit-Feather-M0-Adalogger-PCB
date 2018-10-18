@@ -1,5 +1,13 @@
-# lab64 version of *Adafruit-Feather-M0-Adalogger-PCB*
+# **lab64 version** of *Adafruit-Feather-M0-Adalogger-PCB*
 KiCAD layout files for the SAMD21 board with microSD.
+
+Part subs, package changes, and additional silkscreen for improved solderability. 
+
+
+
+
+
+
 
 ------
 For more details, check out the product page at
