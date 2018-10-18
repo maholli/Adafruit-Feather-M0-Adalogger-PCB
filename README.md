@@ -1,8 +1,7 @@
-# Adafruit-Feather-M0-Adalogger-PCB
-PCB files for the Adafruit Feather M0 Adalogger
+# lab64 version of *Adafruit-Feather-M0-Adalogger-PCB*
+KiCAD layout files for the SAMD21 board with microSD.
 
-Format is EagleCAD schematic and board layout
-
+------
 For more details, check out the product page at
 
   * https://www.adafruit.com/product/2796
