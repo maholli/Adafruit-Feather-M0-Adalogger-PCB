@@ -4,6 +4,12 @@ Part subs, package changes, and additional silkscreen for improved solderability
 
 KiCAD layout files for the SAMD21 board with microSD.
 
+### Part changes
+* 48-QFN subbed for 48-QFP. Easier soldering/rework for workshops
+* different microUSB receptacle
+* different microSD receptacle
+* different JTAG test point layout
+* increased board width by 0.01" to allow GND plane to flow
 
 
 <br>
